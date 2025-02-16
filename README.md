@@ -8,7 +8,7 @@
 🔭 Atualmente trabalhando em **projetos incríveis com IA & Dados**  
 🌱 Aprendendo **Machine Learning, Desenvolvimento Web & DevOps**  
 💡 Aberto a colaborações em **projetos inovadores**  
-📫 Como me contatar: [Seu Email](mailto:emanuelsilva.slz@gmail.com)  
+📫 Como me contatar: [emanuelsilva.slz@gmail.com](mailto:emanuelsilva.slz@gmail.com)  
 
 ---
 
