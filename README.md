@@ -56,7 +56,6 @@
 
 ![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=EmanuelSilva69&theme=radical)
 
-![Métricas do GitHub](https://github.com/EmanuelSilva69/EmanuelSilva69/blob/main/github-metrics.svg)
 
 </div>
 
