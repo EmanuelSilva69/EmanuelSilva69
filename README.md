@@ -44,7 +44,7 @@
 ### 🚀 Projetos em Destaque:
 <div align="center">
 
-[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=project1&theme=radical)](https://github.com/EmanuelSilva69/Formigueiro-em-Netlogo)
+[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=project1&theme=radical)](https://github.com/EmanuelSilva69/Formigueiro-em-Netlogo/tree/main)
 [![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=project2&theme=radical)](https://github.com/EmanuelSilva69/Tutor-IA)
 
 </div>
