@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Sobre mim:
-💻 Engenheiro de Software | 📊 Entusiasta de Ciência de Dados | 🎨 Designer UI/UX  
+💻 Engenheiro de Software | 📊 Entusiasta de Ciência de Dados |  
 🔭 Atualmente trabalhando em **projetos incríveis com IA & Dados**  
 🌱 Aprendendo **Machine Learning, Desenvolvimento Web & DevOps**  
 💡 Aberto a colaborações em **projetos inovadores**  
-📫 Como me contatar: [Seu Email](mailto:your-email@example.com)  
+📫 Como me contatar: [Seu Email](mailto:emanuelsilva.slz@gmail.com)  
 
 ---
 
@@ -44,8 +44,8 @@
 ### 🚀 Projetos em Destaque:
 <div align="center">
 
-[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=project1&theme=radical)](https://github.com/EmanuelSilva69/project1)
-[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=project2&theme=radical)](https://github.com/EmanuelSilva69/project2)
+[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=project1&theme=radical)](https://github.com/EmanuelSilva69/Formigueiro-em-Netlogo)
+[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=project2&theme=radical)](https://github.com/EmanuelSilva69/Tutor-IA)
 
 </div>
 
@@ -76,17 +76,14 @@
 
 ---
 
-### 🎨 Animação Divertida SVG:
 
-![Animação Snake](https://github.com/EmanuelSilva69/EmanuelSilva69/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🐍 GIFs Divertidos de Python:
+
 <div align="center">
 
 ![Python GIF](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
-![Python Coding](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
 
 </div>
 
