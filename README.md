@@ -67,10 +67,10 @@
 
 </div>
 
-
+</div>
 ### 🌎 Conecte-se comigo:
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ChubbyPog)
-
+</div>
 
 ---
 
