@@ -73,14 +73,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ChubbyPog)
 </div>
 
----
 
-<div align="center">
-
-![Python GIF](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
-![Teemo Coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V6eDhta204OWRncTNmYXFzcHdmdmZ2dWcxbWpjbWR4MXl6dzBjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8W48IJrnNf5wjdx60J/giphy.gif)
-
-</div>
 
 ---
 
