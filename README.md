@@ -61,14 +61,6 @@
 
 ---
 
-### 🔄 Atividades Recentes no GitHub:
-<div align="center">
-
-![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=EmanuelSilva69&theme=github)
-
-</div>
-
----
 
 ### 🌎 Conecte-se comigo:
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ChubbyPog)
