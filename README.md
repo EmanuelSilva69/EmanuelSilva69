@@ -1,13 +1,7 @@
-## Hi there 👋
-### Olá! 👋 Bem-vindo ao meu perfil no GitHub!
 
+## Olá! 👋 Bem-vindo ao meu perfil no GitHub!
 ---
 
-### 🚀 Sobre mim:
-💻 Engenheiro de Software | 📊 Entusiasta de Ciência de Dados |  
-🔭 Atualmente trabalhando em **projetos incríveis com IA & Dados**  
-🌱 Aprendendo **Machine Learning, Desenvolvimento Web & DevOps**  
-💡 Aberto a colaborações em **projetos inovadores**  
 📫 Como me contatar: [emanuelsilva.slz@gmail.com](mailto:emanuelsilva.slz@gmail.com)  
 
 ---
@@ -60,7 +54,19 @@
 </div>
 
 ---
+### 🛠️ Tecnologias & Ferramentas:
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-red?style=for-the-badge&logo=prolog&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![LISP](https://img.shields.io/badge/LISP-black?style=for-the-badge&logo=lisp&logoColor=white)
+![NetLogo](https://img.shields.io/badge/NetLogo-darkgreen?style=for-the-badge)
+
+</div>
+---
 
 ### 🌎 Conecte-se comigo:
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ChubbyPog)
@@ -74,7 +80,11 @@
 ![Python GIF](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
 
 </div>
+<div align="center">
 
+![Teemo Coding](https://media.tenor.com/GGsu.gif)
+
+</div>
 ---
 
 ✨ **Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios.** 🚀
