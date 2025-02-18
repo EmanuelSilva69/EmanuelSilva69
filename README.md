@@ -66,9 +66,10 @@
 ![NetLogo](https://img.shields.io/badge/NetLogo-darkgreen?style=for-the-badge)
 
 </div>
+---
 
-</div>
 ### 🌎 Conecte-se comigo:
+</div>
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ChubbyPog)
 </div>
 
