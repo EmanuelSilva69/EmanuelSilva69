@@ -66,7 +66,7 @@
 ![NetLogo](https://img.shields.io/badge/NetLogo-darkgreen?style=for-the-badge)
 
 </div>
----
+
 
 ### 🌎 Conecte-se comigo:
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ChubbyPog)
@@ -80,11 +80,7 @@
 ![Python GIF](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
 
 </div>
-<div align="center">
 
-![Teemo Coding](https://media.tenor.com/GGsu.gif)
-
-</div>
 ---
 
 ✨ **Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios.** 🚀
