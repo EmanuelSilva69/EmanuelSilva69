@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/main/red-wave-top.svg" width="100%">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
 </p>
 
 ## Olá! 👋 Bem-vindo ao meu perfil no GitHub!
@@ -83,5 +83,5 @@
 ✨ **Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios.** 🚀
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/main/red-wave-top.svg" width="100%">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
 </p>
