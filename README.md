@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/wave.svg" width="100%">
+</p>
 
 ## Olá! 👋 Bem-vindo ao meu perfil no GitHub!
 ---
