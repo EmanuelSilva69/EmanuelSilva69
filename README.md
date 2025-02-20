@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXA4dWk4MGI3Nm55cDdwaDBxa3A1dHF5MWczMzZqMTc3czk2eHk3diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qh2FELAo7XAiEMxO7k/giphy.gif" width="100%">
-</p>
+
 
 ## Olá! 👋 Bem-vindo ao meu perfil no GitHub!
 ---
@@ -82,6 +80,3 @@
 
 ✨ **Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios.** 🚀
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXA4dWk4MGI3Nm55cDdwaDBxa3A1dHF5MWczMzZqMTc3czk2eHk3diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qh2FELAo7XAiEMxO7k/giphy.gif" width="100%">
-</p>
