@@ -79,4 +79,6 @@
 ---
 
 ✨ **Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios.** 🚀
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/wave%20(1).svg" width="100%">
+</p>
