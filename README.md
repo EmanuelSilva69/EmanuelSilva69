@@ -70,7 +70,17 @@
 ![NetLogo](https://img.shields.io/badge/NetLogo-darkgreen?style=for-the-badge)
 
 </div>
+---
+### 📚 Aprendendo:
+<div align="center">
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+</div>
 ---
 ### 🌎 Conecte-se comigo:
 
