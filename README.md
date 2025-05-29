@@ -68,6 +68,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![LISP](https://img.shields.io/badge/LISP-black?style=for-the-badge&logo=lisp&logoColor=white)
 ![NetLogo](https://img.shields.io/badge/NetLogo-darkgreen?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
