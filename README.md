@@ -70,7 +70,7 @@
 ![NetLogo](https://img.shields.io/badge/NetLogo-darkgreen?style=for-the-badge)
 
 </div>
----
+
 ### 📚 Aprendendo:
 <div align="center">
 
@@ -81,7 +81,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 </div>
----
+
 ### 🌎 Conecte-se comigo:
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ChubbyPog)
