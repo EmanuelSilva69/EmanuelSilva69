@@ -45,6 +45,7 @@
 [![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=Formigueiro-em-Netlogo&theme=radical)](https://github.com/EmanuelSilva69/Formigueiro-em-Netlogo)
 [![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=Tutor-IA&theme=radical)](https://github.com/EmanuelSilva69/Tutor-IA)
 [![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=NPC-Automatos-2-Avaliacao-LFA&theme=radical)](https://github.com/EmanuelSilva69/NPC-Automatos-2-Avaliacao-LFA)
+[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=BFSQuanticoMaquinaTuring=radical)](https://github.com/EmanuelSilva69/BFSQuanticoMaquinaTuring)https://github.com/EmanuelSilva69/BFSQuanticoMaquinaTuring
 </div>
 
 ---
