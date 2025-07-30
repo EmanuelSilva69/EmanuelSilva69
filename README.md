@@ -47,6 +47,7 @@
 [![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=Tutor-IA&theme=radical)](https://github.com/EmanuelSilva69/Tutor-IA)
 [![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=NPC-Automatos-2-Avaliacao-LFA&theme=radical)](https://github.com/EmanuelSilva69/NPC-Automatos-2-Avaliacao-LFA)
 [![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=BFSQuanticoMaquinaTuring&theme=radical)](https://github.com/EmanuelSilva69/BFSQuanticoMaquinaTuring)
+[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=Neural_Turing_Machine_Criadorara&theme=radical)](https://github.com/EmanuelSilva69/Neural_Turing_Machine_Criadorara)
 
 </div>
 
