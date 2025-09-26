@@ -89,7 +89,7 @@
 
 ### 🌎 Conecte-se comigo:
 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ChubbyPog)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Chubbyanemone67)
 </div>
 
 
