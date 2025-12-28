@@ -29,26 +29,59 @@
 </div>
 
 ---
+---
 
 ### 🏆 Troféus do GitHub:
+> *Nota: Se esta imagem não carregar, é porque o servidor dos troféus está temporariamente sobrecarregado.*
 <div align="center">
 
-![Troféus](https://github-profile-trophy.vercel.app/?username=EmanuelSilva69&theme=onedark&no-bg=true&no-frame=true)
+![Troféus](https://github-profile-trophy.vercel.app/?username=EmanuelSilva69&theme=onedark&no-bg=true&no-frame=true&margin-w=15)
 
 </div>
 
 ---
 
 ### 🚀 Projetos em Destaque:
+
 <div align="center">
-
-[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=Formigueiro-em-Netlogo&theme=radical)](https://github.com/EmanuelSilva69/Formigueiro-em-Netlogo)
-[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=Tutor-IA&theme=radical)](https://github.com/EmanuelSilva69/Tutor-IA)
-[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=NPC-Automatos-2-Avaliacao-LFA&theme=radical)](https://github.com/EmanuelSilva69/NPC-Automatos-2-Avaliacao-LFA)
-[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=BFSQuanticoMaquinaTuring&theme=radical)](https://github.com/EmanuelSilva69/BFSQuanticoMaquinaTuring)
-[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=Neural_Turing_Machine_Criadorara&theme=radical)](https://github.com/EmanuelSilva69/Neural_Turing_Machine_Criadorara)
-[![Cartão do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=diogobrasil&repo=analises-tcc-cripto&theme=radical)](https://github.com/diogobrasil/analises-tcc-cripto)
-
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/EmanuelSilva69/Formigueiro-em-Netlogo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=Formigueiro-em-Netlogo&theme=radical" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/EmanuelSilva69/Tutor-IA">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=Tutor-IA&theme=radical" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/EmanuelSilva69/NPC-Automatos-2-Avaliacao-LFA">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=NPC-Automatos-2-Avaliacao-LFA&theme=radical" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EmanuelSilva69/BFSQuanticoMaquinaTuring">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=BFSQuanticoMaquinaTuring&theme=radical" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/EmanuelSilva69/Neural_Turing_Machine_Criadorara">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=Neural_Turing_Machine_Criadorara&theme=radical" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/diogobrasil/analises-tcc-cripto">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogobrasil&repo=analises-tcc-cripto&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
