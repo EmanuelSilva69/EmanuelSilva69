@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/wave%20(1).svg" width="100%">
 </p>
@@ -59,10 +58,10 @@
 
 ![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=EmanuelSilva69&theme=radical)
 
-
 </div>
 
 ---
+
 ### 🛠️ Tecnologias & Ferramentas:
 <div align="center">
 
@@ -90,14 +89,17 @@
 
 ### 🌎 Conecte-se comigo:
 
+<div align="center">
+
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Chubbyanemone67)
+
 </div>
-
-
 
 ---
 
-✨ **Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios.** 🚀
+<p align="center">
+  ✨ **Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios.** 🚀
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/wave.svg" width="100%">
 </p>
