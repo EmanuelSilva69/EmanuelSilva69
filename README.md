@@ -35,7 +35,7 @@
 > *Nota: Se esta imagem não carregar, é porque o servidor dos troféus está temporariamente sobrecarregado.*
 <div align="center">
 
-![Troféus](https://github-profile-trophy.vercel.app/?username=EmanuelSilva69&theme=radical&no-bg=true&no-frame=true)
+![Troféus](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=EmanuelSilva69&theme=radical&no-bg=true)
 
 </div>
 
