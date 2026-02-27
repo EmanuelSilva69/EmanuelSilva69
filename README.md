@@ -13,9 +13,9 @@
 ### 📈 Estatísticas do GitHub:
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EmanuelSilva69&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats-rose-eight-97.vercel.app/api?username=EmanuelSilva69&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSilva69&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats-rose-eight-97.vercel.app/api/top-langs/?username=EmanuelSilva69&layout=compact&theme=radical)
 
 </div>
 
@@ -89,7 +89,7 @@
 ### 📊 Gráfico de Contribuições & Atividade de Commits:
 <div align="center">
 
-![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=EmanuelSilva69&theme=radical)
+![Gráfico de Atividades](https://github-readme-stats-rose-eight-97.vercel.app/graph?username=EmanuelSilva69&theme=radical)
 
 </div>
 
@@ -106,6 +106,7 @@
 ![LISP](https://img.shields.io/badge/LISP-black?style=for-the-badge&logo=lisp&logoColor=white)
 ![NetLogo](https://img.shields.io/badge/NetLogo-darkgreen?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white)
 
 </div>
 
