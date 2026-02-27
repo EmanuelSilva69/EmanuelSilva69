@@ -48,12 +48,12 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/EmanuelSilva69/Formigueiro-em-Netlogo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=Formigueiro-em-Netlogo&theme=radical" />
+          <img src="https://github-readme-stats-rose-eight-97.vercel.app/api/pin/?username=EmanuelSilva69&repo=Formigueiro-em-Netlogo&theme=radical" />
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/EmanuelSilva69/Tutor-IA">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=Tutor-IA&theme=radical" />
+          <img src="https://github-readme-stats-rose-eight-97.vercel.app/api/pin/?username=EmanuelSilva69&repo=Tutor-IA&theme=radical" />
         </a>
       </td>
     </tr>
