@@ -89,7 +89,7 @@
 ### 📊 Gráfico de Contribuições & Atividade de Commits:
 <div align="center">
 
-![Gráfico de Atividades](https://github-readme-stats-rose-eight-97.vercel.app/graph?username=EmanuelSilva69&theme=radical)
+![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=EmanuelSilva69&theme=react-dark)
 
 </div>
 
