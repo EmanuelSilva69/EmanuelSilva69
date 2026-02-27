@@ -35,7 +35,7 @@
 > *Nota: Se esta imagem não carregar, é porque o servidor dos troféus está temporariamente sobrecarregado.*
 <div align="center">
 
-![Troféus](https://github-profile-trophy.vercel.app/?username=EmanuelSilva69&theme=onedark&no-bg=true&no-frame=true&margin-w=15)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmanuelSilva69&theme=radical)
 
 </div>
 
@@ -60,24 +60,24 @@
     <tr>
       <td align="center">
         <a href="https://github.com/EmanuelSilva69/NPC-Automatos-2-Avaliacao-LFA">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=NPC-Automatos-2-Avaliacao-LFA&theme=radical" />
+          <img src="https://github-readme-stats-rose-eight-97.vercel.app/api/pin/?username=EmanuelSilva69&repo=NPC-Automatos-2-Avaliacao-LFA&theme=radical" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EmanuelSilva69/BFSQuanticoMaquinaTuring">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=BFSQuanticoMaquinaTuring&theme=radical" />
+          <img src="https://github-readme-stats-rose-eight-97.vercel.app/api/pin/?username=EmanuelSilva69&repo=BFSQuanticoMaquinaTuring&theme=radical" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/EmanuelSilva69/Neural_Turing_Machine_Criadorara">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmanuelSilva69&repo=Neural_Turing_Machine_Criadorara&theme=radical" />
+          <img src="https://github-readme-stats-rose-eight-97.vercel.app/api/pin/?username=EmanuelSilva69&repo=Neural_Turing_Machine_Criadorara&theme=radical" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/diogobrasil/analises-tcc-cripto">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogobrasil&repo=analises-tcc-cripto&theme=radical" />
+          <img src="https://github-readme-stats-rose-eight-97.vercel.app/api/pin/?username=diogobrasil&repo=analises-tcc-cripto&theme=radical" />
         </a>
       </td>
     </tr>
