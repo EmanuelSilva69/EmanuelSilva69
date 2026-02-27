@@ -135,7 +135,7 @@
   <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 <p align="center">
-  ✨ **Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios.** 🚀
+  ✨ Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios. 🚀
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/wave.svg" width="100%">
