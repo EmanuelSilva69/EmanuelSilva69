@@ -35,7 +35,7 @@
 > *Nota: Se esta imagem não carregar, é porque o servidor dos troféus está temporariamente sobrecarregado.*
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmanuelSilva69&theme=radical)
+![Troféus](https://github-profile-trophy.vercel.app/?username=EmanuelSilva69&theme=radical&no-bg=true&no-frame=true)
 
 </div>
 
@@ -130,7 +130,10 @@
 </div>
 
 ---
-
+### 🐍 Jogo da Cobrinha 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 <p align="center">
   ✨ **Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios.** 🚀
 </p>
