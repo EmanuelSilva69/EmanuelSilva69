@@ -12,7 +12,7 @@
 
 ---
 
-### 📈 Estatísticas do GitHub:
+###  Estatísticas do GitHub:
 <div align="center">
 
 ![Estatísticas do GitHub](https://github-readme-stats-rose-eight-97.vercel.app/api?username=EmanuelSilva69&show_icons=true&theme=radical)
@@ -23,7 +23,7 @@
 
 ---
 
-### 🔥 Estatísticas de Contribuição:
+###  Estatísticas de Contribuição:
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmanuelSilva69&theme=radical)
@@ -32,7 +32,7 @@
 
 ---
 
-### 🚀 Projetos em Destaque:
+###  Projetos em Destaque:
 
 <div align="center">
   <table>
@@ -77,7 +77,7 @@
 
 ---
 
-### 📊 Gráfico de Contribuições & Atividade de Commits:
+###  Gráfico de Contribuições & Atividade de Commits:
 <div align="center">
 
 ![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=EmanuelSilva69&theme=react-dark)
@@ -86,7 +86,7 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas:
+###  Tecnologias & Ferramentas:
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -101,7 +101,7 @@
 
 </div>
 
-### 📚 Aprendendo:
+###  Aprendendo:
 <div align="center">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -112,7 +112,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 </div>
 
-### 🌎 Conecte-se comigo:
+###  Conecte-se comigo:
 
 <div align="center">
 
