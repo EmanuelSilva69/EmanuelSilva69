@@ -2,10 +2,7 @@
   <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/wave%20(1).svg" width="100%">
 </p>
 
-<p align="center">
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Emanuel;Sou+de+São+Luis+do+Maranhão;Estudo+Ciência+e+Tecnologia;Bem-vindo!+%F0%9F%91%8B)](https://git.io/typing-svg)
-</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Emanuel;Sou+de+São+Luis+do+Maranhão;Estudo+Ciência+e+Tecnologia;Bem-vindo!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/dtopo.svg" width="130%">
