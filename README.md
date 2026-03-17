@@ -80,7 +80,7 @@
 ### Troféus 
 <div align="center">
   <a href="https://github.com/EmanuelSilva69">
-    <img src="https://trophygh.kolioaris.xyz/?username=EmanuelSilva69&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Troféus do Emanuel" />
+    <img src="https://trophygh.kolioaris.xyz/?username=EmanuelSilva69&theme=dark&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Troféus do Emanuel" />
   </a>
 </div>
 
