@@ -54,6 +54,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
 ![Crawl4AI](https://img.shields.io/badge/Crawl4AI-FF4B4B?style=for-the-badge)
 </div>
+
 ---
 
 ###  Estatísticas do GitHub:
