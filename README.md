@@ -78,8 +78,8 @@
 
 ---
 ### Troféus 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<<div align="center">
+  <a href="https://github.com/EmanuelSilva69">
     <img src="https://github-profile-trophy-nine-woad.vercel.app/?username=EmanuelSilva69&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Troféus do Emanuel" />
   </a>
 </div>
