@@ -130,8 +130,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/d-baixo.svg" width="130%">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/wave.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/dbrastro.svg" width="130%">
 </p>
