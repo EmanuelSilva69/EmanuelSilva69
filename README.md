@@ -147,7 +147,7 @@
 </div>
 
 ---
-### 🎮 No meu tempo livre:
+###  No meu tempo livre:
 <div align="center">
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-62AE1D?style=for-the-badge&logo=minecraft&logoColor=white)
