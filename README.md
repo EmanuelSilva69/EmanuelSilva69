@@ -147,6 +147,18 @@
 </div>
 
 ---
+### 🎮 No meu tempo livre:
+<div align="center">
+
+![Minecraft](https://img.shields.io/badge/Minecraft-62AE1D?style=for-the-badge&logo=minecraft&logoColor=white)
+![Taiwu](https://img.shields.io/badge/The_Scroll_of_Taiwu-DAA520?style=for-the-badge&logo=adventure-ist&logoColor=black)
+![Mount & Blade](https://img.shields.io/badge/Mount_%26_Blade_II-8B0000?style=for-the-badge&logo=shield&logoColor=white)
+![The Binding of Isaac](https://img.shields.io/badge/The_Binding_of_Isaac-B22222?style=for-the-badge&logo=ghost&logoColor=white)
+
+
+</div>
+
+---
 ### 🐍 Jogo da Cobrinha 
 <div align="center">
   <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/output/github-contribution-grid-snake.svg" alt="Snake animation" />
