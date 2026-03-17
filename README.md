@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/dtopo.svg" width="130%">
 </p>
+
 ---
 
 📫 Como me contatar: [emanuelsilva.slz@gmail.com](mailto:emanuelsilva.slz@gmail.com)  
