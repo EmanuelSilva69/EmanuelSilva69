@@ -30,7 +30,7 @@
     <animate attributeName="opacity" values="0; 0; 1; 1; 0" keyTimes="0; 0.460; 0.461; 0.99; 1" dur="20s" repeatCount="indefinite" />
     <g>
       <animateTransform attributeName="transform" type="rotate" values="-25 50 100; 25 50 100; -25 50 100" dur="3s" repeatCount="indefinite" />
-      <use href="#charles-base" fill="#eeff00" />
+      <use href="#charles-base" fill="#dacc10" />
     </g>
   </g>
 
