@@ -161,10 +161,10 @@
         <img src="https://img.shields.io/badge/The_Binding_of_Isaac-2C2825?style=for-the-badge&logo=ghost&logoColor=B22222">
       </td>
       <td align="center" width="50%">
-        <a href="https://store.steampowered.com/app/833280/The_Scroll_Of_Taiwu/">
-          <img src="https://cdn.akamai.steamstatic.com/steam/apps/833280/header.jpg" width="100%" alt="The Scroll of Taiwu" style="border-radius: 10px;" />
-        </a>
-      </td>
+  <a href="https://store.steampowered.com/app/838350/The_Scroll_of_Taiwu__Beyond_The_Dome/">
+    <img src="https://cdn.akamai.steamstatic.com/steam/apps/838350/header.jpg" width="100%" alt="The Scroll of Taiwu: Beyond The Dome" style="border-radius: 10px;" />
+  </a>
+</td>
     </tr>
   </table>
 </div>
