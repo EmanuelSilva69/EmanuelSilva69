@@ -1,7 +1,9 @@
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/dtrastro.svg" width="130%">
+  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/taiwu-rastro.svg" width="60">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/taiwu-rastro.svg" width="60">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/taiwu-rastro.svg" width="60">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5C77E&size=35&center=true&vCenter=true&width=1000&lines=Scroll+of+taiwu+jogaço)](https://git.io/typing-svg)
@@ -176,9 +178,13 @@
   <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 <p align="center">
-  ✨ Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios. 🚀
+   Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios. 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/dbrastro.svg" width="130%">
+  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/taiwu-rastro.svg" width="60">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/taiwu-rastro.svg" width="60">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/taiwu-rastro.svg" width="60">
 </p>
