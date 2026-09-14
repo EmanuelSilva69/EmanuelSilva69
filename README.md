@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="image_51040.png" width="300" style="border-radius: 15px;" alt="The Scroll of Taiwu">
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/EmanuelSilva69/EmanuelSilva69/refs/heads/main/dtrastro.svg" width="130%">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5C77E&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Emanuel;Sou+de+São+Luis+do+Maranhão;Estudo+Ciência+e+Tecnologia;Bem-vindo!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5C77E&size=35&center=true&vCenter=true&width=1000&lines=Scroll+of+taiwu+jogaço)](https://git.io/typing-svg)
 
 ---
 
