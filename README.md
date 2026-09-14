@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image_51040d.png" width="300" style="border-radius: 15px;" alt="The Scroll of Taiwu">
+  <img src="image_51040.png" width="300" style="border-radius: 15px;" alt="The Scroll of Taiwu">
 </p>
 
 <p align="center">
